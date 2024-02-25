@@ -14,5 +14,7 @@ from the right
     • On the left, you first will see 2 ‘1¢’, then 2 ‘10¢’ and 3 ‘1¢’, and finally 2 ‘1$’, 1 ‘25¢’, 1 ‘5¢’ and 4 ‘1¢’.
 -> The clear button resets the price to zero.
 
-<img width="743" alt="image" src="https://github.com/tusharnama37/Calculator_App/assets/67703426/d6c82a73-fc49-4ecb-8188-4f277cd3f7ae">
+<img width="282" alt="image" src="https://github.com/tusharnama37/Calculator_App/assets/67703426/c70d33f4-1b31-4cb8-9f7e-bb7a3d72efa6">
+<img width="409" alt="image" src="https://github.com/tusharnama37/Calculator_App/assets/67703426/8f157f53-e67e-425f-a606-e5a780ac571c">
+
 
